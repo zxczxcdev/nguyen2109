@@ -19,12 +19,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=vue" />
   </a>
  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen2109&card_width=699&hide_border=true&theme=vue">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen2109&card_width=699&hide_border=true&theme=vue" />
-  </a>
+  <a href=""> 
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyen2109&card_width=699&hide_border=true&theme=vue"/> 
+ </a>
  
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&card_width=699&hide_border=true&theme=vue">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&card_width=699&hide_border=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&hide_border=true&theme=vue" />
   </a>
  
  
