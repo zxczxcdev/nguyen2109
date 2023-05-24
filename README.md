@@ -3,16 +3,16 @@
 <h3 align="center">Coder</h3>
 
 <p align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue&card_width=300">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue&card_width=300" />
   </a>
  
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=vue&utcOffset=7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=vue&utcOffset=7" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=vue&utcOffset=7&card_width=150" />
   </a>
  
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=vue">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=vue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=vue&card_width=150" />
   </a>
  
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=150&theme=vue">
