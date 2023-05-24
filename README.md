@@ -3,8 +3,8 @@
 <h3 align="center">Coder</h3>
 
 <p align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=2077">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=2077" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue" />
   </a>
  
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=2077&utcOffset=7">
