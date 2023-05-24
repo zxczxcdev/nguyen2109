@@ -7,16 +7,16 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyen2109&theme=vue" />
   </a>
  
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=2077&utcOffset=7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=2077&utcOffset=7" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=vue&utcOffset=7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyen2109&theme=vue&utcOffset=7" />
   </a>
  
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=2077">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=2077" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=vue">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=vue" />
   </a>
  
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=2077">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=2077" />
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=vue">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=vue" />
   </a>
  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen2109&card_width=699&hide_border=true&theme=vue">
