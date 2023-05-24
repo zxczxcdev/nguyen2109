@@ -15,11 +15,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyen2109&theme=vue" />
   </a>
  
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=vue">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=350&theme=vue" />
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=150&theme=vue">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen2109&hide_border=true&card_width=150&theme=vue" />
   </a> 
- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&card_width=699&hide_border=true&theme=vue">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&hide_border=true&theme=vue" />
+ 
+ <a href="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&card_width=150&hide_border=true&theme=vue">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyen2109&hide_border=true&theme=vue&card_width=150" />
   </a>
  
   <a href=""> 
