@@ -72,6 +72,9 @@ npx prettier --check .
 
 # .gitignore config :
 
+ ```sh
+ touch .gitignore
+ ```
 ```sh
 node_modules/
 ```
